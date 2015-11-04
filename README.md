@@ -4,7 +4,7 @@ Ejemplos de integración del SOAP API para clientes PHP
 
 # Documentación
 
-https://goo.gl/IeeQ6W
+[SOAP API Didimo SMS - Manual de Integracion](https://goo.gl/IeeQ6W)
 
 # Soporte
 
